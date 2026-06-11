@@ -250,7 +250,7 @@ Master of Computer Applications (Data Science & Cloud Computing)
 ### Connect With Me
 
 - LinkedIn: www.linkedin.com/in/jayeshbkamble
-- GitHub: github.com/jayeshbkamble
+- GitHub: www.github.com/jayeshbkamble
 
 ---
 
