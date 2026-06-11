@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard.jpg)
 
 ---
 
@@ -249,7 +249,7 @@ Master of Computer Applications (Data Science & Cloud Computing)
 
 ### Connect With Me
 
-- LinkedIn: www.linkedin.com/in/jayesh-kamble-data-analyst
+- LinkedIn: www.linkedin.com/in/jayeshbkamble
 - GitHub: github.com/yourusername
 
 ---
